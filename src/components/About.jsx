@@ -97,7 +97,7 @@ const About = () => {
             </div>
             <div className="h-36 w-56 border-2 border-primary-black rounded-md p-4">
               <p className="text-4xl font-bold text-primary-gold mb-2">
-                10<span className="text-xl align-top inline-block">+</span>
+                2<span className="text-xl align-top inline-block">+</span>
               </p>
               <div className="flex">
                 <BsDashLg className="text-2xl text-primary-gray mr-2" />
